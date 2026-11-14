@@ -1,0 +1,7 @@
+# Java/Maven build output
+ target/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
